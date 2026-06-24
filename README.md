@@ -51,6 +51,6 @@ The Two Pointers Pattern is used when we need to iterate through a data structur
 
 ## Two Pointers Pattern
 
-| Original Day | Video Link 1 | Video Link 2 | Notes (Link) | Problem 1 | Problem 2 | Problem 3 | Problem 4 | Doubts | Tricks I Learned |
-|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
-| Day 1 | [Day 1 Lecture](https://www.youtube.com/watch?v=Elnhh8cC2vM) | - | [Day 1 Notes](soon) | - | - | - | - | | |
+| Original Day | Video Link 1 | Video Link 2 | Notes (Link) | Problem 1 | Problem 2 | Problem 3 | Problem 4 |
+|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| Day 1 | [Day 1 Lecture](https://www.youtube.com/watch?v=Elnhh8cC2vM) | - | [Day 1 Notes](https://drive.google.com/file/d/1TZ96u1UzLEdVeo7x94Zua8_JKgpKa0An/view) | - | - | - | - | | |
