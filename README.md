@@ -29,5 +29,28 @@ The goal of this repository is to master problem-solving through pattern-based l
 - Prepare for Product-Based Companies
 
 ---
- PATTERN 1: Two Pointers 
- 
+ # 1️⃣ Two Pointers Pattern
+
+## 📌 Overview
+
+The Two Pointers Pattern is used when we need to iterate through a data structure using two indices or pointers. It is commonly applied in sorted arrays, palindrome problems, pair finding, triplet problems, and optimization-based questions.
+
+### ⏳ Recommended Time
+
+**4–5 Days**
+
+### 🎯 Learning Objectives
+
+* Understand left & right pointer movement
+* Learn pair-sum based problems
+* Master palindrome checking
+* Solve triplet and optimization problems
+* Improve time complexity from O(n²) to O(n)
+
+---
+
+## Two Pointers Pattern
+
+| Original Day | Video Link 1 | Video Link 2 | Notes (Link) | Problem 1 | Problem 2 | Problem 3 | Problem 4 | Doubts | Tricks I Learned |
+|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| Day 1 | [Day 1 Lecture](https://www.youtube.com/watch?v=Elnhh8cC2vM) | - | [Day 1 Notes](soon) | - | - | - | - | | |
