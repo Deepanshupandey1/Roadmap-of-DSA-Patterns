@@ -54,4 +54,4 @@ The Two Pointers Pattern is used when we need to iterate through a data structur
 | Original Day | Video Link 1 | Video Link 2 | Notes (Link) | Problem 1 | Problem 2 | Problem 3 | Problem 4 |
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | Day 1 | [Day 1 Lecture](https://www.youtube.com/watch?v=Elnhh8cC2vM) | - | [Day 1 Notes](https://drive.google.com/file/d/1TZ96u1UzLEdVeo7x94Zua8_JKgpKa0An/view) | - | - | - | - | | |
-| Day 2 | [Day 2 Lecture](https://www.youtube.com/watch?v=Yi90cuHYyWQ) | - | - | [LC 125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | - | - | - | | |
+| Day 2 | [Day 2 Lecture](https://www.youtube.com/watch?v=Yi90cuHYyWQ) | - | - | [LC 125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [LC 344 - Reverse String](https://leetcode.com/problems/reverse-string/) | [LC 680 - Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | - | |
